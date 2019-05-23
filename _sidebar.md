@@ -6,6 +6,7 @@
     -   [QQ 音乐](music/tencent.md)
     -   [酷狗音乐](music/kugou.md)
     -   [酷我音乐](music/kuwo.md)
+    -   [咪咕音乐](music/migu.md)
 -   其他接口
     -   [ONE 一个](other/one.md)
     -   [郑州公交](other/zzbus.md)
