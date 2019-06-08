@@ -1,4 +1,4 @@
 -   [首页](README.md)
 -   [我的博客](http://www.bzqll.com)
--   [项目地址](http://github.com/MessMusic)
+-   [项目地址](https://github.com/messoer/mess-api-doc)
 -   [更新日志](changeLog.md)
