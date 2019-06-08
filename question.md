@@ -46,4 +46,4 @@
 
 ## 如何获取QQ音乐排行榜ID？
 
-URL 地址: y.qq.com/n/yqq/toplist/`26`.html
+?> URL 地址: y.qq.com/n/yqq/toplist/`26`.html
