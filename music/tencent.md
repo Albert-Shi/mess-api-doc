@@ -2,9 +2,9 @@
 
 ## 获取音乐详情
 
-接口地址: `tencent/song`
+接口地址: `https://v1.itooi.cn/tencent/song`
 
-请求示例: `tencent/song?id=xxxx,xxxx`
+请求示例: `https://v1.itooi.cn/tencent/song?id=xxxx,xxxx`
 
 | 参数说明 | 是否必须 | 说明                                                | 默认值 |
 | -------- | -------- | --------------------------------------------------- | ------ |
@@ -13,9 +13,9 @@
 
 ## 获取音乐播放地址
 
-接口地址: `tencent/url`
+接口地址: `https://v1.itooi.cn/tencent/url`
 
-请求示例: `tencent/url?id=xxxx&quality=128`
+请求示例: `https://v1.itooi.cn/tencent/url?id=xxxx&quality=128`
 
 | 参数说明   | 是否必须 | 说明                                      | 默认值                     |
 | ---------- | -------- | ----------------------------------------- | -------------------------- |
@@ -27,9 +27,9 @@
 
 ## 获取音乐歌词
 
-接口地址: `tencent/lrc`
+接口地址: `https://v1.itooi.cn/tencent/lrc`
 
-请求示例: `tencent/lrc?id=xxx`
+请求示例: `https://v1.itooi.cn/tencent/lrc?id=xxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值           |
 | -------- | -------- | ------- | ---------------- |
@@ -37,9 +37,9 @@
 
 ## 获取音乐图片
 
-接口地址: `tencent/pic`
+接口地址: `https://v1.itooi.cn/tencent/pic`
 
-请求示例: `tencent/pic?id=xxx`
+请求示例: `https://v1.itooi.cn/tencent/pic?id=xxx`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                                       |
 | ---------- | -------- | ------------- | -------------------------------------------- |
@@ -49,9 +49,9 @@
 
 ## 获取专辑详情
 
-接口地址: `tencent/album`
+接口地址: `https://v1.itooi.cn/tencent/album`
 
-请求示例: `tencent/album?id=xxxx`
+请求示例: `https://v1.itooi.cn/tencent/album?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -62,9 +62,9 @@
 
 说明：获取歌单中的所有音乐
 
-接口地址: `tencent/songList`
+接口地址: `https://v1.itooi.cn/tencent/songList`
 
-请求示例: `tencent/songList?id=xxxx&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/tencent/songList?id=xxxx&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -77,9 +77,9 @@
 
 当前支持类型 `song singer album songList video radio user lrc`
 
-接口地址: `tencent/search`
+接口地址: `https://v1.itooi.cn/tencent/search`
 
-请求示例: `tencent/search?keyword=xxxx&type=song&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/tencent/search?keyword=xxxx&type=song&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明                                             | 默认值         |
 | -------- | -------- | ------------------------------------------------ | -------------- |
@@ -91,9 +91,9 @@
 
 ## 排行榜
 
-接口地址: `tencent/topList`
+接口地址: `https://v1.itooi.cn/tencent/topList`
 
-请求示例: `tencent/topList?id=26&pageSize=100&page=0&format=1`
+请求示例: `https://v1.itooi.cn/tencent/topList?id=26&pageSize=100&page=0&format=1`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值  |
 | -------- | -------- | ------------------------------ | ------- |
@@ -104,15 +104,15 @@
 
 ## 歌单分类
 
-接口地址: `tencent/songList/category`
+接口地址: `https://v1.itooi.cn/tencent/songList/category`
 
-请求示例: `tencent/songList/category`
+请求示例: `https://v1.itooi.cn/tencent/songList/category`
 
 ## 热门歌单
 
-接口地址: `tencent/songList/hot`
+接口地址: `https://v1.itooi.cn/tencent/songList/hot`
 
-请求示例: `tencent/songList/hot?cat=全部&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/tencent/songList/hot?cat=全部&pageSize=100&page=0`
 
 | 参数说明     | 是否必须 | 说明               | 默认值                               |
 | ------------ | -------- | ------------------ | ------------------------------------ |
@@ -125,7 +125,7 @@
 
 接口地址:`tencent/songList/user`
 
-请求示例: `tencent/songList/user?uid=xxxxx`
+请求示例: `https://v1.itooi.cn/tencent/songList/user?uid=xxxxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值  |
 | -------- | -------- | ------- | ------- |
@@ -133,9 +133,9 @@
 
 ## 获取 MV 信息
 
-接口地址: `tencent/mv`
+接口地址: `https://v1.itooi.cn/tencent/mv`
 
-请求示例: `tencent/mv?id=xxxxx`
+请求示例: `https://v1.itooi.cn/tencent/mv?id=xxxxx`
 
 | 参数说明 | 是否必须 | 说明  | 默认值 |
 | -------- | -------- | ----- | ------ |
@@ -143,9 +143,9 @@
 
 ## 获取 MV 播放地址
 
-接口地址: `tencent/mvUrl`
+接口地址: `https://v1.itooi.cn/tencent/mvUrl`
 
-请求示例: `tencent/mvUrl?id=xxxx&quality=1080`
+请求示例: `https://v1.itooi.cn/tencent/mvUrl?id=xxxx&quality=1080`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -157,15 +157,15 @@
 
 ## 歌单分类
 
-接口地址: `tencent/mv/category`
+接口地址: `https://v1.itooi.cn/tencent/mv/category`
 
-请求示例: `tencent/mv/category`
+请求示例: `https://v1.itooi.cn/tencent/mv/category`
 
 ## 热门 MV
 
-接口地址: `tencent/mv/hot`
+接口地址: `https://v1.itooi.cn/tencent/mv/hot`
 
-请求示例: `tencent/mv/hot?&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/tencent/mv/hot?&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -174,9 +174,9 @@
 
 ## 歌手详情
 
-接口地址: `tencent/artist`
+接口地址: `https://v1.itooi.cn/tencent/artist`
 
-请求示例: `tencent/artist?id=xxxx`
+请求示例: `https://v1.itooi.cn/tencent/artist?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值 |
 | -------- | -------- | ------- | ------ |
@@ -184,15 +184,15 @@
 
 ## 歌手分类
 
-接口地址: `tencent/artist/category`
+接口地址: `https://v1.itooi.cn/tencent/artist/category`
 
-请求示例: `tencent/artist/category`
+请求示例: `https://v1.itooi.cn/tencent/artist/category`
 
 ## 歌手列表
 
-接口地址: `tencent/artist/list`
+接口地址: `https://v1.itooi.cn/tencent/artist/list`
 
-请求示例: `tencent/artist/list?sexId=-100&areaId=-100&genre=-100&index=-100&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/artist/list?sexId=-100&areaId=-100&genre=-100&index=-100&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值    |
 | -------- | -------- | -------- | --------- |
@@ -205,9 +205,9 @@
 
 ## 歌手音乐
 
-接口地址: `tencent/song/artist`
+接口地址: `https://v1.itooi.cn/tencent/song/artist`
 
-请求示例: `tencent/song/artist?id=xxxxxx`
+请求示例: `https://v1.itooi.cn/tencent/song/artist?id=xxxxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值  |
 | -------- | -------- | ------------------------------ | ------- |
@@ -218,9 +218,9 @@
 
 ## 歌手专辑
 
-接口地址: `tencent/album/artist`
+接口地址: `https://v1.itooi.cn/tencent/album/artist`
 
-请求示例: `tencent/album/artist?id=xxxxxx`
+请求示例: `https://v1.itooi.cn/tencent/album/artist?id=xxxxxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值 |
 | -------- | -------- | ------- | ------ |
@@ -228,19 +228,25 @@
 
 ## 歌手 MV
 
-接口地址: `tencent/mv/artist`
+接口地址: `https://v1.itooi.cn/tencent/mv/artist`
 
-请求示例: `tencent/mv/artist?id=xxxxxx`
+请求示例: `https://v1.itooi.cn/tencent/mv/artist?id=xxxxxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值 |
 | -------- | -------- | ------- | ------ |
 | id       | ×        | 歌手 ID |        |
 
+## 首页轮播图
+
+接口地址: `https://v1.itooi.cn/tencent/banner`
+
+请求示例: `https://v1.itooi.cn/tencent/banner`
+
 ## 音乐评论
 
-接口地址: `tencent/comment/song`
+接口地址: `https://v1.itooi.cn/tencent/comment/song`
 
-请求示例: `tencent/comment/song?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/song?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -250,9 +256,9 @@
 
 ## 专辑评论
 
-接口地址: `tencent/comment/album`
+接口地址: `https://v1.itooi.cn/tencent/comment/album`
 
-请求示例: `tencent/comment/album?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/album?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -262,9 +268,9 @@
 
 ## MV 评论
 
-接口地址: `tencent/comment/mv`
+接口地址: `https://v1.itooi.cn/tencent/comment/mv`
 
-请求示例: `tencent/comment/mv?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/mv?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -274,9 +280,9 @@
 
 ## 榜单评论
 
-接口地址: `tencent/comment/top`
+接口地址: `https://v1.itooi.cn/tencent/comment/top`
 
-请求示例: `tencent/comment/top?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/top?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -286,9 +292,9 @@
 
 ## 歌单评论
 
-接口地址: `tencent/comment/songList`
+接口地址: `https://v1.itooi.cn/tencent/comment/songList`
 
-请求示例: `tencent/comment/songList?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/songList?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -298,9 +304,9 @@
 
 ## 音乐热门评论
 
-接口地址: `tencent/comment/song/hot`
+接口地址: `https://v1.itooi.cn/tencent/comment/song/hot`
 
-请求示例: `tencent/comment/song/hot?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/song/hot?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -310,9 +316,9 @@
 
 ## 专辑热门评论
 
-接口地址: `tencent/comment/album/hot`
+接口地址: `https://v1.itooi.cn/tencent/comment/album/hot`
 
-请求示例: `tencent/comment/album/hot?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/album/hot?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -322,9 +328,9 @@
 
 ## MV 热门评论
 
-接口地址: `tencent/comment/mv/hot`
+接口地址: `https://v1.itooi.cn/tencent/comment/mv/hot`
 
-请求示例: `tencent/comment/mv/hot?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/mv/hot?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -334,9 +340,9 @@
 
 ## 榜单热门评论
 
-接口地址: `tencent/comment/top/hot`
+接口地址: `https://v1.itooi.cn/tencent/comment/top/hot`
 
-请求示例: `tencent/comment/top/hot?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/top/hot?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -346,9 +352,9 @@
 
 ## 歌单热门评论
 
-接口地址: `tencent/comment/songList/hot`
+接口地址: `https://v1.itooi.cn/tencent/comment/songList/hot`
 
-请求示例: `tencent/comment/songList/hot?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/tencent/comment/songList/hot?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |

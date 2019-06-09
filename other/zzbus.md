@@ -2,9 +2,9 @@
 
 ## 查询线路信息
 
-接口地址: `bus/zhengzhou`
+接口地址: `https://v1.itooi.cn/bus/zhengzhou`
 
-请求示例: `bus/zhengzhou?line=1`
+请求示例: `https://v1.itooi.cn/bus/zhengzhou?line=1`
 
 | 参数说明 | 是否必须 | 说明 | 默认值 |
 | -------- | -------- | ---- | ------ |

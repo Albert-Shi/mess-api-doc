@@ -32,6 +32,10 @@
 
 ?> URL 地址: y.qq.com/n/yqq/mv/v/`w0026q7f01a`.html
 
+### 如何获取 QQ 音乐排行榜 ID？
+
+?> URL 地址: y.qq.com/n/yqq/toplist/`26`.html
+
 等等很多 ID 都差不多是这样子,不再多说,还有问题请加群询问
 
 ## 请求跨域怎么办？
@@ -43,7 +47,3 @@
 ### 使用其他方式请求
 
 接口为了降低门槛,默认设置 GET 的请求方式，你可以换成 POST 请求方式试试
-
-## 如何获取QQ音乐排行榜ID？
-
-?> URL 地址: y.qq.com/n/yqq/toplist/`26`.html

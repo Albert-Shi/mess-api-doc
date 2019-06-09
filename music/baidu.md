@@ -2,9 +2,9 @@
 
 ## 获取音乐详情
 
-接口地址: `baidu/song`
+接口地址: `https://v1.itooi.cn/baidu/song`
 
-请求示例: `baidu/song?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/song?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -13,9 +13,9 @@
 
 ## 获取音乐播放地址
 
-接口地址: `baidu/url`
+接口地址: `https://v1.itooi.cn/baidu/url`
 
-请求示例: `baidu/url?id=xxxx&quality=128`
+请求示例: `https://v1.itooi.cn/baidu/url?id=xxxx&quality=128`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -27,9 +27,9 @@
 
 ## 获取音乐歌词
 
-接口地址: `baidu/lrc`
+接口地址: `https://v1.itooi.cn/baidu/lrc`
 
-请求示例: `baidu/lrc?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/lrc?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值           |
 | -------- | -------- | ------- | ---------------- |
@@ -37,9 +37,9 @@
 
 ## 获取音乐图片
 
-接口地址: `baidu/pic`
+接口地址: `https://v1.itooi.cn/baidu/pic`
 
-请求示例: `baidu/pic?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/pic?id=xxxx`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -48,9 +48,9 @@
 
 ## 获取专辑详情
 
-接口地址: `baidu/album`
+接口地址: `https://v1.itooi.cn/baidu/album`
 
-请求示例: `baidu/album?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/album?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -61,9 +61,9 @@
 
 说明：获取歌单中的所有音乐
 
-接口地址: `baidu/songList`
+接口地址: `https://v1.itooi.cn/baidu/songList`
 
-请求示例: `baidu/songList?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/songList?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -76,9 +76,9 @@
 
 当前支持类型 `song singer album songList`
 
-接口地址: `baidu/search`
+接口地址: `https://v1.itooi.cn/baidu/search`
 
-请求示例: `baidu/search?keyword=xxxx&type=song&pageSize=100&page=1`
+请求示例: `https://v1.itooi.cn/baidu/search?keyword=xxxx&type=song&pageSize=100&page=1`
 
 | 参数说明 | 是否必须 | 说明                                             | 默认值                    |
 | -------- | -------- | ------------------------------------------------ | ------------------------- |
@@ -90,9 +90,9 @@
 
 ## 获取 MV 信息
 
-接口地址: `baidu/mv`
+接口地址: `https://v1.itooi.cn/baidu/mv`
 
-请求示例: `baidu/mv?id=xxxxx`
+请求示例: `https://v1.itooi.cn/baidu/mv?id=xxxxx`
 
 | 参数说明 | 是否必须 | 说明  | 默认值 |
 | -------- | -------- | ----- | ------ |
@@ -100,9 +100,9 @@
 
 ## 获取 MV 播放地址
 
-接口地址: `baidu/mvUrl`
+接口地址: `https://v1.itooi.cn/baidu/mvUrl`
 
-请求示例: `baidu/mvUrl?id=xxxx&quality=1080`
+请求示例: `https://v1.itooi.cn/baidu/mvUrl?id=xxxx&quality=1080`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |

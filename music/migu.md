@@ -2,9 +2,9 @@
 
 ## 获取音乐详情
 
-接口地址: `migu/song`
+接口地址: `https://v1.itooi.cn/migu/song`
 
-请求示例: `migu/song?id=xxxx`
+请求示例: `https://v1.itooi.cn/migu/song?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -13,9 +13,9 @@
 
 ## 获取音乐播放地址
 
-接口地址: `migu/url`
+接口地址: `https://v1.itooi.cn/migu/url`
 
-请求示例: `migu/url?id=xxxx&quality=128`
+请求示例: `https://v1.itooi.cn/migu/url?id=xxxx&quality=128`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -27,9 +27,9 @@
 
 ## 获取音乐歌词
 
-接口地址: `migu/lrc`
+接口地址: `https://v1.itooi.cn/migu/lrc`
 
-请求示例: `migu/lrc?id=xxxx`
+请求示例: `https://v1.itooi.cn/migu/lrc?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值           |
 | -------- | -------- | ------- | ---------------- |
@@ -37,9 +37,9 @@
 
 ## 获取音乐图片
 
-接口地址: `migu/pic`
+接口地址: `https://v1.itooi.cn/migu/pic`
 
-请求示例: `migu/pic?id=xxxx`
+请求示例: `https://v1.itooi.cn/migu/pic?id=xxxx`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -48,9 +48,9 @@
 
 ## 获取专辑详情
 
-接口地址: `migu/album`
+接口地址: `https://v1.itooi.cn/migu/album`
 
-请求示例: `migu/album?id=xxxx`
+请求示例: `https://v1.itooi.cn/migu/album?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -61,9 +61,9 @@
 
 说明：获取歌单中的所有音乐
 
-接口地址: `migu/songList`
+接口地址: `https://v1.itooi.cn/migu/songList`
 
-请求示例: `migu/songList?id=xxxx&pageSize=100&page=1`
+请求示例: `https://v1.itooi.cn/migu/songList?id=xxxx&pageSize=100&page=1`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值                    |
 | -------- | -------- | ------------------------------ | ------------------------- |
@@ -78,9 +78,9 @@
 
 当前支持类型 `song singer album songList mv`
 
-接口地址: `migu/search`
+接口地址: `https://v1.itooi.cn/migu/search`
 
-请求示例: `migu/search?keyword=xxxx&type=song&pageSize=100&page=1`
+请求示例: `https://v1.itooi.cn/migu/search?keyword=xxxx&type=song&pageSize=100&page=1`
 
 | 参数说明 | 是否必须 | 说明                                             | 默认值                    |
 | -------- | -------- | ------------------------------------------------ | ------------------------- |
@@ -92,9 +92,9 @@
 
 ## 获取 MV 信息
 
-接口地址: `migu/mv`
+接口地址: `https://v1.itooi.cn/migu/mv`
 
-请求示例: `migu/mv?id=xxxxx`
+请求示例: `https://v1.itooi.cn/migu/mv?id=xxxxx`
 
 | 参数说明 | 是否必须 | 说明  | 默认值 |
 | -------- | -------- | ----- | ------ |
@@ -102,9 +102,9 @@
 
 ## 获取 MV 播放地址
 
-接口地址: `migu/mvUrl`
+接口地址: `https://v1.itooi.cn/migu/mvUrl`
 
-请求示例: `migu/mvUrl?id=xxxx&quality=1080`
+请求示例: `https://v1.itooi.cn/migu/mvUrl?id=xxxx&quality=1080`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |

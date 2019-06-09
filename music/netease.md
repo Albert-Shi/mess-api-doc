@@ -2,9 +2,9 @@
 
 ## 音乐详情
 
-接口地址: `netease/song`
+接口地址: `https://v1.itooi.cn/netease/song`
 
-请求示例: `netease/song?id=37239038,526307800`
+请求示例: `https://v1.itooi.cn/netease/song?id=37239038,526307800`
 
 | 参数说明 | 是否必须 | 说明                                                | 默认值 |
 | -------- | -------- | --------------------------------------------------- | ------ |
@@ -106,9 +106,9 @@
 
 ## 音乐播放地址
 
-接口地址: `netease/url`
+接口地址: `https://v1.itooi.cn/netease/url`
 
-请求示例: `netease/url?id=37239038&quality=flac`
+请求示例: `https://v1.itooi.cn/netease/url?id=37239038&quality=flac`
 
 | 参数说明   | 是否必须 | 说明                                      | 默认值                     |
 | ---------- | -------- | ----------------------------------------- | -------------------------- |
@@ -120,9 +120,9 @@
 
 ## 音乐歌词
 
-接口地址: `netease/lrc`
+接口地址: `https://v1.itooi.cn/netease/lrc`
 
-请求示例: `netease/lrc?id=37239038`
+请求示例: `https://v1.itooi.cn/netease/lrc?id=37239038`
 
 | 参数说明 | 是否必须 | 说明    | 默认值           |
 | -------- | -------- | ------- | ---------------- |
@@ -130,9 +130,9 @@
 
 ## 音乐图片
 
-接口地址: `netease/pic`
+接口地址: `https://v1.itooi.cn/netease/pic`
 
-请求示例: `netease/pic?id=37239038`
+请求示例: `https://v1.itooi.cn/netease/pic?id=37239038`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                                       |
 | ---------- | -------- | ------------- | -------------------------------------------- |
@@ -142,9 +142,9 @@
 
 ## 专辑详情
 
-接口地址: `netease/album`
+接口地址: `https://v1.itooi.cn/netease/album`
 
-请求示例: `netease/album?id=3159845`
+请求示例: `https://v1.itooi.cn/netease/album?id=3159845`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -323,9 +323,9 @@
 
 说明：获取歌单中的所有音乐
 
-接口地址: `netease/songList`
+接口地址: `https://v1.itooi.cn/netease/songList`
 
-请求示例: `netease/songList?id=141998290`
+请求示例: `https://v1.itooi.cn/netease/songList?id=141998290`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -409,9 +409,9 @@
 
 当前支持类型 `song singer album songList video radio user lrc`
 
-接口地址: `netease/search`
+接口地址: `https://v1.itooi.cn/netease/search`
 
-请求示例: `netease/search?keyword=花粥&type=song&pageSize=20&page=0`
+请求示例: `https://v1.itooi.cn/netease/search?keyword=花粥&type=song&pageSize=20&page=0`
 
 | 参数说明 | 是否必须 | 说明                                             | 默认值         |
 | -------- | -------- | ------------------------------------------------ | -------------- |
@@ -423,9 +423,9 @@
 
 ## 歌单分类
 
-接口地址: `netease/songList/category`
+接口地址: `https://v1.itooi.cn/netease/songList/category`
 
-请求示例: `netease/songList/category`
+请求示例: `https://v1.itooi.cn/netease/songList/category`
 
 ```json
 {
@@ -483,9 +483,9 @@
 
 ## 精品歌单
 
-接口地址: `netease/songList/highQuality`
+接口地址: `https://v1.itooi.cn/netease/songList/highQuality`
 
-请求示例: `netease/songList/highQuality?cat=全部&pageSize=100`
+请求示例: `https://v1.itooi.cn/netease/songList/highQuality?cat=全部&pageSize=100`
 
 | 参数说明     | 是否必须 | 说明                         | 默认值                               |
 | ------------ | -------- | ---------------------------- | ------------------------------------ |
@@ -496,9 +496,9 @@
 
 ## 热门歌单
 
-接口地址: `netease/songList/hot`
+接口地址: `https://v1.itooi.cn/netease/songList/hot`
 
-请求示例: `netease/songList/hot?cat=全部&pageSize=20&page=0`
+请求示例: `https://v1.itooi.cn/netease/songList/hot?cat=全部&pageSize=20&page=0`
 
 | 参数说明     | 是否必须 | 说明               | 默认值                               |
 | ------------ | -------- | ------------------ | ------------------------------------ |
@@ -511,7 +511,7 @@
 
 接口地址:`netease/songList/user`
 
-请求示例: `netease/songList/user?uid=115119971`
+请求示例: `https://v1.itooi.cn/netease/songList/user?uid=115119971`
 
 | 参数说明 | 是否必须 | 说明    | 默认值  |
 | -------- | -------- | ------- | ------- |
@@ -519,9 +519,9 @@
 
 ## MV 信息
 
-接口地址: `netease/mv`
+接口地址: `https://v1.itooi.cn/netease/mv`
 
-请求示例: `netease/mv?id=10866117`
+请求示例: `https://v1.itooi.cn/netease/mv?id=10866117`
 
 | 参数说明 | 是否必须 | 说明                                         | 默认值 |
 | -------- | -------- | -------------------------------------------- | ------ |
@@ -529,9 +529,9 @@
 
 ## MV 播放地址
 
-接口地址: `netease/mvUrl`
+接口地址: `https://v1.itooi.cn/netease/mvUrl`
 
-请求示例: `netease/mvUrl?id=10866117&quality=1080`
+请求示例: `https://v1.itooi.cn/netease/mvUrl?id=10866117&quality=1080`
 
 | 参数说明   | 是否必须 | 说明                                         | 默认值                     |
 | ---------- | -------- | -------------------------------------------- | -------------------------- |
@@ -543,9 +543,9 @@
 
 ## 视频信息
 
-接口地址: `netease/video`
+接口地址: `https://v1.itooi.cn/netease/video`
 
-请求示例: `netease/video?id=10866117`
+请求示例: `https://v1.itooi.cn/netease/video?id=10866117`
 
 | 参数说明 | 是否必须 | 说明                                           | 默认值 |
 | -------- | -------- | ---------------------------------------------- | ------ |
@@ -553,9 +553,9 @@
 
 ## 视频播放地址
 
-接口地址: `netease/videoUrl`
+接口地址: `https://v1.itooi.cn/netease/videoUrl`
 
-请求示例: `netease/videoUrl?id=10866117&quality=1080`
+请求示例: `https://v1.itooi.cn/netease/videoUrl?id=10866117&quality=1080`
 
 | 参数说明   | 是否必须 | 说明                                           | 默认值                     |
 | ---------- | -------- | ---------------------------------------------- | -------------------------- |
@@ -567,9 +567,9 @@
 
 ## MV 排行榜
 
-接口地址: `netease/mv/top`
+接口地址: `https://v1.itooi.cn/netease/mv/top`
 
-请求示例: `netease/mv/top?pageSize=10&page=0`
+请求示例: `https://v1.itooi.cn/netease/mv/top?pageSize=10&page=0`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -578,9 +578,9 @@
 
 ## 歌手信息
 
-接口地址: `netease/artist/info`
+接口地址: `https://v1.itooi.cn/netease/artist/info`
 
-请求示例: `netease/artist/info?id=8103`
+请求示例: `https://v1.itooi.cn/netease/artist/info?id=8103`
 
 | 参数说明 | 是否必须 | 说明    | 默认值 |
 | -------- | -------- | ------- | ------ |
@@ -588,9 +588,9 @@
 
 ## 歌手排行榜
 
-接口地址: `netease/artist/top`
+接口地址: `https://v1.itooi.cn/netease/artist/top`
 
-请求示例: `netease/artist/top?page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/artist/top?page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -599,9 +599,9 @@
 
 ## 歌手歌曲
 
-接口地址: `netease/song/artist`
+接口地址: `https://v1.itooi.cn/netease/song/artist`
 
-请求示例: `netease/song/artist?id=8103`
+请求示例: `https://v1.itooi.cn/netease/song/artist?id=8103`
 
 | 参数说明 | 是否必须 | 说明    | 默认值 |
 | -------- | -------- | ------- | ------ |
@@ -609,9 +609,9 @@
 
 ## 歌手专辑
 
-接口地址: `netease/album/artist`
+接口地址: `https://v1.itooi.cn/netease/album/artist`
 
-请求示例: `netease/album/artist?id=8103`
+请求示例: `https://v1.itooi.cn/netease/album/artist?id=8103`
 
 | 参数说明 | 是否必须 | 说明    | 默认值 |
 | -------- | -------- | ------- | ------ |
@@ -619,9 +619,9 @@
 
 ## 歌手 MV
 
-接口地址: `netease/mv/artist`
+接口地址: `https://v1.itooi.cn/netease/mv/artist`
 
-请求示例: `netease/mv/artist?id=8103`
+请求示例: `https://v1.itooi.cn/netease/mv/artist?id=8103`
 
 | 参数说明 | 是否必须 | 说明    | 默认值 |
 | -------- | -------- | ------- | ------ |
@@ -629,21 +629,27 @@
 
 ## 最新音乐
 
-接口地址: `netease/song/newest`
+接口地址: `https://v1.itooi.cn/netease/song/newest`
 
-请求示例: `netease/song/newest`
+请求示例: `https://v1.itooi.cn/netease/song/newest`
 
 ## 最新专辑
 
-接口地址: `netease/album/newest`
+接口地址: `https://v1.itooi.cn/netease/album/newest`
 
-请求示例: `netease/album/newest`
+请求示例: `https://v1.itooi.cn/netease/album/newest`
+
+## 首页轮播图
+
+接口地址: `https://v1.itooi.cn/netease/banner`
+
+请求示例: `https://v1.itooi.cn/netease/banner`
 
 ## 音乐评论
 
-接口地址: `netease/comment/song`
+接口地址: `https://v1.itooi.cn/netease/comment/song`
 
-请求示例: `netease/comment/song?id=37239038&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/song?id=37239038&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -653,9 +659,9 @@
 
 ## 专辑评论
 
-接口地址: `netease/comment/album`
+接口地址: `https://v1.itooi.cn/netease/comment/album`
 
-请求示例: `netease/comment/album?id=3159845&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/album?id=3159845&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -665,9 +671,9 @@
 
 ## MV 评论
 
-接口地址: `netease/comment/mv`
+接口地址: `https://v1.itooi.cn/netease/comment/mv`
 
-请求示例: `netease/comment/mv?id=10866117&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/mv?id=10866117&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -677,9 +683,9 @@
 
 ## Video 评论
 
-接口地址: `netease/comment/video`
+接口地址: `https://v1.itooi.cn/netease/comment/video`
 
-请求示例: `netease/comment/video?id=10866117&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/video?id=10866117&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -689,9 +695,9 @@
 
 ## 歌单评论
 
-接口地址: `netease/comment/songList`
+接口地址: `https://v1.itooi.cn/netease/comment/songList`
 
-请求示例: `netease/comment/songList?id=2509086690&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/songList?id=2509086690&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -701,9 +707,9 @@
 
 ## 音乐热门评论
 
-接口地址: `netease/comment/song/hot`
+接口地址: `https://v1.itooi.cn/netease/comment/song/hot`
 
-请求示例: `netease/comment/song/hot?id=37239038&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/song/hot?id=37239038&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -713,9 +719,9 @@
 
 ## 专辑热门评论
 
-接口地址: `netease/comment/album/hot`
+接口地址: `https://v1.itooi.cn/netease/comment/album/hot`
 
-请求示例: `netease/comment/album/hot?id=3159845&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/album/hot?id=3159845&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -725,9 +731,9 @@
 
 ## MV 热门评论
 
-接口地址: `netease/comment/mv/hot`
+接口地址: `https://v1.itooi.cn/netease/comment/mv/hot`
 
-请求示例: `netease/comment/mv/hot?id=10866117&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/mv/hot?id=10866117&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -737,9 +743,9 @@
 
 ## Video 热门评论
 
-接口地址: `netease/comment/video/hot`
+接口地址: `https://v1.itooi.cn/netease/comment/video/hot`
 
-请求示例: `netease/comment/video/hot?id=10866117&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/video/hot?id=10866117&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -749,9 +755,9 @@
 
 ## 歌单热门评论
 
-接口地址: `netease/comment/songList/hot`
+接口地址: `https://v1.itooi.cn/netease/comment/songList/hot`
 
-请求示例: `netease/comment/songList/hot?id=2509086690&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/songList/hot?id=2509086690&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |

@@ -2,9 +2,9 @@
 
 ## 获取音乐详情
 
-接口地址: `kuwo/song`
+接口地址: `https://v1.itooi.cn/kuwo/song`
 
-请求示例: `kuwo/song?id=xxx`
+请求示例: `https://v1.itooi.cn/kuwo/song?id=xxx`
 
 | 参数说明 | 是否必须 | 说明                                                | 默认值 |
 | -------- | -------- | --------------------------------------------------- | ------ |
@@ -13,9 +13,9 @@
 
 ## 获取音乐播放地址
 
-接口地址: `kuwo/url`
+接口地址: `https://v1.itooi.cn/kuwo/url`
 
-请求示例: `kuwo/url?id=xxxx&quality=128`
+请求示例: `https://v1.itooi.cn/kuwo/url?id=xxxx&quality=128`
 
 | 参数说明   | 是否必须 | 说明                                      | 默认值                     |
 | ---------- | -------- | ----------------------------------------- | -------------------------- |
@@ -27,9 +27,9 @@
 
 ## 获取音乐歌词
 
-接口地址: `kuwo/lrc`
+接口地址: `https://v1.itooi.cn/kuwo/lrc`
 
-请求示例: `kuwo/lrc?id=xxx`
+请求示例: `https://v1.itooi.cn/kuwo/lrc?id=xxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值           |
 | -------- | -------- | ------- | ---------------- |
@@ -37,9 +37,9 @@
 
 ## 获取音乐图片
 
-接口地址: `kuwo/pic`
+接口地址: `https://v1.itooi.cn/kuwo/pic`
 
-请求示例: `kuwo/pic?id=xxx`
+请求示例: `https://v1.itooi.cn/kuwo/pic?id=xxx`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -48,9 +48,9 @@
 
 ## 获取专辑详情
 
-接口地址: `kuwo/album`
+接口地址: `https://v1.itooi.cn/kuwo/album`
 
-请求示例: `kuwo/album?id=xxx`
+请求示例: `https://v1.itooi.cn/kuwo/album?id=xxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -61,9 +61,9 @@
 
 说明：获取歌单中的所有音乐
 
-接口地址: `kuwo/songList`
+接口地址: `https://v1.itooi.cn/kuwo/songList`
 
-请求示例: `kuwo/songList?id=xxxx&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/kuwo/songList?id=xxxx&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -76,9 +76,9 @@
 
 当前支持类型 `song singer album songList video radio user lrc`
 
-接口地址: `kuwo/search`
+接口地址: `https://v1.itooi.cn/kuwo/search`
 
-请求示例: `kuwo/search?keyword=我喜欢上你内心时的活动&type=song&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/kuwo/search?keyword=我喜欢上你内心时的活动&type=song&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值         |
 | -------- | -------- | ------------------------------ | -------------- |
@@ -90,9 +90,9 @@
 
 ## 获取 MV 信息
 
-接口地址: `kuwo/mv`
+接口地址: `https://v1.itooi.cn/kuwo/mv`
 
-请求示例: `kuwo/mv?id=5965802`
+请求示例: `https://v1.itooi.cn/kuwo/mv?id=5965802`
 
 | 参数说明 | 是否必须 | 说明  | 默认值 |
 | -------- | -------- | ----- | ------ |
@@ -100,9 +100,9 @@
 
 ## 获取 MV 播放地址
 
-接口地址: `kuwo/mvUrl`
+接口地址: `https://v1.itooi.cn/kuwo/mvUrl`
 
-请求示例: `kuwo/mvUrl?id=5965802&quality=1080`
+请求示例: `https://v1.itooi.cn/kuwo/mvUrl?id=5965802&quality=1080`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -114,9 +114,9 @@
 
 ## 音乐评论
 
-接口地址: `netease/comment/song`
+接口地址: `https://v1.itooi.cn/netease/comment/song`
 
-请求示例: `netease/comment/song?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/song?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -126,9 +126,9 @@
 
 ## 歌单评论
 
-接口地址: `netease/comment/songList`
+接口地址: `https://v1.itooi.cn/netease/comment/songList`
 
-请求示例: `netease/comment/songList?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/songList?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -138,9 +138,9 @@
 
 ## 音乐热门评论
 
-接口地址: `netease/comment/song`
+接口地址: `https://v1.itooi.cn/netease/comment/song`
 
-请求示例: `netease/comment/song?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/song?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |
@@ -150,9 +150,9 @@
 
 ## 歌单热门评论
 
-接口地址: `netease/comment/songList`
+接口地址: `https://v1.itooi.cn/netease/comment/songList`
 
-请求示例: `netease/comment/songList?id=xxxx&page=0&pageSize=30`
+请求示例: `https://v1.itooi.cn/netease/comment/songList?id=xxxx&page=0&pageSize=30`
 
 | 参数说明 | 是否必须 | 说明     | 默认值  |
 | -------- | -------- | -------- | ------- |

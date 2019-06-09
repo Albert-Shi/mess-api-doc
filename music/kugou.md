@@ -2,9 +2,9 @@
 
 ## 获取音乐详情
 
-接口地址: `kugou/song`
+接口地址: `https://v1.itooi.cn/kugou/song`
 
-请求示例: `kugou/song?id=xxxx`
+请求示例: `https://v1.itooi.cn/kugou/song?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -13,9 +13,9 @@
 
 ## 获取音乐播放地址
 
-接口地址: `kugou/url`
+接口地址: `https://v1.itooi.cn/kugou/url`
 
-请求示例: `kugou/url?id=xxxx&quality=128`
+请求示例: `https://v1.itooi.cn/kugou/url?id=xxxx&quality=128`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -27,9 +27,9 @@
 
 ## 获取音乐歌词
 
-接口地址: `kugou/lrc`
+接口地址: `https://v1.itooi.cn/kugou/lrc`
 
-请求示例: `kugou/lrc?id=xxxx`
+请求示例: `https://v1.itooi.cn/kugou/lrc?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明    | 默认值           |
 | -------- | -------- | ------- | ---------------- |
@@ -37,9 +37,9 @@
 
 ## 获取音乐图片
 
-接口地址: `kugou/pic`
+接口地址: `https://v1.itooi.cn/kugou/pic`
 
-请求示例: `kugou/pic?id=xxxx`
+请求示例: `https://v1.itooi.cn/kugou/pic?id=xxxx`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -48,9 +48,9 @@
 
 ## 获取专辑详情
 
-接口地址: `kugou/album`
+接口地址: `https://v1.itooi.cn/kugou/album`
 
-请求示例: `kugou/album?id=xxxx`
+请求示例: `https://v1.itooi.cn/kugou/album?id=xxxx`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -61,9 +61,9 @@
 
 说明：获取歌单中的所有音乐
 
-接口地址: `kugou/songList`
+接口地址: `https://v1.itooi.cn/kugou/songList`
 
-请求示例: `kugou/songList?id=xxxx&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/kugou/songList?id=xxxx&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -76,9 +76,9 @@
 
 当前支持类型 `song singer album songList video radio user lrc`
 
-接口地址: `kugou/search`
+接口地址: `https://v1.itooi.cn/kugou/search`
 
-请求示例: `kugou/search?keyword=xxxx&type=song&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/kugou/search?keyword=xxxx&type=song&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值         |
 | -------- | -------- | ------------------------------ | -------------- |
@@ -90,9 +90,9 @@
 
 ## 获取 MV 信息
 
-接口地址: `kugou/mv`
+接口地址: `https://v1.itooi.cn/kugou/mv`
 
-请求示例: `kugou/mv?id=xxxxx`
+请求示例: `https://v1.itooi.cn/kugou/mv?id=xxxxx`
 
 | 参数说明 | 是否必须 | 说明  | 默认值 |
 | -------- | -------- | ----- | ------ |
@@ -100,9 +100,9 @@
 
 ## 获取 MV 播放地址
 
-接口地址: `kugou/mvUrl`
+接口地址: `https://v1.itooi.cn/kugou/mvUrl`
 
-请求示例: `kugou/mvUrl?id=xxxx&quality=1080`
+请求示例: `https://v1.itooi.cn/kugou/mvUrl?id=xxxx&quality=1080`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
