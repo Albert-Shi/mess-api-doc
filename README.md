@@ -73,8 +73,9 @@ MessAPI V1.0.7
 
 ## 联系方式
 
--   QQ 群 ①：579621905（技术探讨）
--   QQ 群 ②：261097396（群友交流）
+-   QQ 群 1⃣️：579621905（技术探讨）💰
+-   QQ 群 2⃣️：261097396（群友交流）🆓🈵️
+-   QQ 群 3⃣️：553632885（群友交流）🆓
 -   邮箱： mrdong916@163.com
 -   Github： http://github.com/mrdong916
 -   Telegram: https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg
