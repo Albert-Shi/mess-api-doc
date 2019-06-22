@@ -112,14 +112,14 @@
 
 接口地址: `https://v1.itooi.cn/tencent/songList/hot`
 
-请求示例: `https://v1.itooi.cn/tencent/songList/hot?cat=全部&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/tencent/songList/hot?categoryId=10000000&sortId=5&pageSize=10&page=1`
 
-| 参数说明   | 是否必须 | 说明     | 默认值                    |
-| ---------- | -------- | -------- | ------------------------- |
-| categoryId | ×        | 分类 ID  | ID 见歌单分类接口返回数据 |
-| sortId     | ×        | 排序 ID  | ID 见歌单分类接口返回数据 |
-| pageSize   | ×        | 获取条数 | 默认 30                   |
-| page       | ×        | 分页     | 默认 0                    |
+| 参数说明   | 是否必须 | 说明     | 默认值                             |
+| ---------- | -------- | -------- | ---------------------------------- |
+| categoryId | ×        | 分类 ID  | ID 见歌单分类接口返回数据          |
+| sortId     | ×        | 排序 ID  | ID 见歌单分类接口返回数据          |
+| pageSize   | ×        | 获取条数 | 默认 30 官方限制分页条数最大 60 条 |
+| page       | ×        | 分页     | 默认 0                             |
 
 ## 用户歌单信息
 
