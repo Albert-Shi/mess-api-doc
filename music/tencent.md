@@ -64,7 +64,7 @@
 
 接口地址: `https://v1.itooi.cn/tencent/songList`
 
-请求示例: `https://v1.itooi.cn/tencent/songList?id=xxxx&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/tencent/songList?id=7073731347`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
