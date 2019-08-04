@@ -4,7 +4,7 @@
 
 接口地址: `https://v1.itooi.cn/baidu/song`
 
-请求示例: `https://v1.itooi.cn/baidu/song?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/song?id=790142`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -15,7 +15,7 @@
 
 接口地址: `https://v1.itooi.cn/baidu/url`
 
-请求示例: `https://v1.itooi.cn/baidu/url?id=xxxx&quality=128`
+请求示例: `https://v1.itooi.cn/baidu/url?id=790142&quality=128`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -23,13 +23,13 @@
 | quality    | x        | 音质          |                            |
 | isRedirect | ×        | 是否 302 跳转 | 1 跳转 0 不跳转 默认为跳转 |
 
-说明: 码率类型：128 320
+说明: 码率类型：64 128 320 flac
 
 ## 获取音乐歌词
 
 接口地址: `https://v1.itooi.cn/baidu/lrc`
 
-请求示例: `https://v1.itooi.cn/baidu/lrc?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/lrc?id=790142`
 
 | 参数说明 | 是否必须 | 说明    | 默认值           |
 | -------- | -------- | ------- | ---------------- |
@@ -39,18 +39,19 @@
 
 接口地址: `https://v1.itooi.cn/baidu/pic`
 
-请求示例: `https://v1.itooi.cn/baidu/pic?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/pic?id=790142`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
 | id         | √        | 音乐 ID       |                            |
+| imageSize  | x        | 图片大小      | 默认 300x300               |
 | isRedirect | ×        | 是否 302 跳转 | 1 跳转 0 不跳转 默认为跳转 |
 
 ## 获取专辑详情
 
 接口地址: `https://v1.itooi.cn/baidu/album`
 
-请求示例: `https://v1.itooi.cn/baidu/album?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/album?id=190892`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -63,7 +64,7 @@
 
 接口地址: `https://v1.itooi.cn/baidu/songList`
 
-请求示例: `https://v1.itooi.cn/baidu/songList?id=xxxx`
+请求示例: `https://v1.itooi.cn/baidu/songList?id=566152845`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
