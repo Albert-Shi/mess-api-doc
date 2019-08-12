@@ -68,7 +68,7 @@
 | Q Q      | m4a      | m4a      | mp3         | m4a         | mp3         | ape         | flac         |              |          |
 | 酷狗     |          |          | mp3         |             | mp3         |             | flac         | flac         | dff      |
 | 酷我     | aac      |          | mp3         | mp3         | mp3         | mp3         | flac         |              |          |
-| 咪咕     | mp3(64)  |          | mp3         | mp3         | mp3         |             | flac         |              |          |
+| 咪咕     | mp3(64)  |          | mp3         |             | mp3         |             | flac         |              |          |
 | 百度     | aac(64)  |          | mp3         |             | mp3         |             |              |              |          |
 
 ## 捐赠
