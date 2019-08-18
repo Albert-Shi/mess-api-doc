@@ -15,6 +15,10 @@
 
 必须注明 API 版权来源于 [https://github.com/messoer](https://github.com/messoer),如果你的项目开源，你可以把项目捐赠到`messoer`组织中，项目拥有者还是你本人，需要请联系 QQ347784533
 
+## 鸣谢
+
+<a href="https://www.tirr.com.cn/" target="_blank"><img height="60px" src="https://www.tirr.com.cn/files/templates/frontend/CPx5fiBW/images/logo.png"></a>
+
 ## 当前版本
 
 `V1.1.1`
