@@ -1,14 +1,12 @@
 > MessAPI 一团乱糟糟的 API
 
 [![](https://img.shields.io/badge/最新版本-v1.1.1-brightgreen.svg?style=flat-square)](changeLog.md)
+[![](https://img.shields.io/badge/作者-@鼻子亲了脸-blue.svg?style=flat-square)](http://www.bzqll.com)
+[![](https://img.shields.io/badge/Github-@mrdong916-green.svg?style=flat-square)](http://github.com/mrdong916)
 
 [![](https://img.shields.io/badge/付费Q群-579621905-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5iEkd35)
 [![](https://img.shields.io/badge/QQ2群-261097396-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5UAX0SA)
 [![](https://img.shields.io/badge/QQ3群-553632885-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5LyluVd) [![](https://img.shields.io/badge/Telegram-MessAPI-orange.svg?style=flat-square)](https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg)
-
-[![](https://img.shields.io/badge/Github-@mrdong916-blue.svg?style=flat-square)](http://github.com/mrdong916)
-[![](https://img.shields.io/badge/Email-mrdong916@163.com-green.svg?style=flat-square)](mailto:mrdong916@163.com)
-[![](https://img.shields.io/badge/博客-@鼻子亲了脸-blue.svg?style=flat-square)](http://www.bzqll.com)
 
 ## 新版特性
 
@@ -36,8 +34,7 @@
 
 以下排序为添加时间,无特别意义，如果想出现在赞助列表上,请赞助后提交 [issue](https://github.com/messoer/mess-api-doc/issues),之前赞助过的直接提交 [issue](https://github.com/messoer/mess-api-doc/issues)
 
--   <a href="http://www.bzqll.com" target="_blank"><img height="40px"  src="https://i.loli.net/2019/08/04/kCrjaYe1l3AuHZD.png"></a>
-
+-   [鼻子亲了脸](http://www.bzqll.com)
 -   [小寒](http://dodoblog.cn)
 -   [NiTian1207](http://nitian1207.top)
 -   bug508
