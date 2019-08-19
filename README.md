@@ -17,7 +17,8 @@
 
 ## 鸣谢
 
-<a href="https://www.tirr.com.cn/" target="_blank"><img height="60px" src="https://i.loli.net/2019/08/19/guPWyzhcZr8YNsI.png"></a>
+<a href="https://www.tirr.com.cn/" target="_blank"><img height="60px" src="https://i.loli.net/2019/08/19/KXlpAvjWZkRoPOi.png"></a>
+<a href="https://www.ghpym.com/" target="_blank"><img height="60px" src="https://i.loli.net/2019/08/19/iWufSClxhbMkAqQ.png"></a>
 
 ## 当前版本
 
