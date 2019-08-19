@@ -1,4 +1,14 @@
-> MessAPI
+> MessAPI 一团乱糟糟的 API
+
+[![](https://img.shields.io/badge/最新版本-v1.1.1-brightgreen.svg?style=flat-square)](changeLog.md)
+
+[![](https://img.shields.io/badge/付费Q群-579621905-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5iEkd35)
+[![](https://img.shields.io/badge/QQ2群-261097396-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5UAX0SA)
+[![](https://img.shields.io/badge/QQ3群-553632885-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5LyluVd) [![](https://img.shields.io/badge/Telegram-MessAPI-orange.svg?style=flat-square)](https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg)
+
+[![](https://img.shields.io/badge/Github-@mrdong916-blue.svg?style=flat-square)](http://github.com/mrdong916)
+[![](https://img.shields.io/badge/Email-mrdong916@163.com-green.svg?style=flat-square)](mailto:mrdong916@163.com)
+[![](https://img.shields.io/badge/博客-@鼻子亲了脸-blue.svg?style=flat-square)](http://www.bzqll.com)
 
 ## 新版特性
 
@@ -15,72 +25,29 @@
 
 必须注明 API 版权来源于 [https://github.com/messoer](https://github.com/messoer),如果你的项目开源，你可以把项目捐赠到`messoer`组织中，项目拥有者还是你本人，需要请联系 QQ347784533
 
-## 当前版本
-
-`V1.1.1`
-
--   修复网易云搜索时分页错误
--   修复网易云搜索视频时显示类型不存在
--   更新酷狗获取播放地址
--   更新文档错误信息
-
-更多更新日志，请前往 [更新日志](changeLog.md) 查看
-
-## 联系方式
-
--   QQ 群 1⃣️：579621905（技术探讨）💰
--   QQ 群 2⃣️：261097396（群友交流）🆓🈵️
--   QQ 群 3⃣️：553632885（群友交流）🆓
--   邮箱： mrdong916@163.com
--   Github： http://github.com/mrdong916
--   Telegram: https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg
-
-## 请求说明
-
-以下所有接口请求域名为 `v1.itooi.cn`,为了降低使用门槛，所有请求为`GET`请求,你也可以试用其他请求方式
-
-注意: 请求头中 `Content-type` 为 `application/x-www-form-urlencoded`
-
-请求地址 = 域名 + 接口地址 + 参数
-
-域名：`https://v1.itooi.cn`
-
-接口地址：`https://v1.itooi.cn/netease/song`
-
-参数：`id=37239038`
-
-示例： `https://v1.itooi.cn/netease/song?id=37239038`
-
-## 支持平台
-
--   网易云音乐 http://music.163.com
--   QQ 音乐 http://y.qq.com
--   酷狗音乐 http://www.kugou.com
--   酷我音乐 http://www.kuwo.cn
--   咪咕音乐 http://www.migu.cn
--   百度音乐 http://music.taihe.com/
-
-> 音乐平台音质： 未注明则为官方不支持或未找到该音质资源,`免费版不支持无损音乐`,如果使用`无损音质`版本请加群了解
-
-| 支持平台 | 普通(48) | 普通(64) | 标准(96) | 标准（128） | 较高（192） | 极高（320） | 无损（ape） | 无损（flac） | Hi-Res(flac) | DSD(dff) |
-| -------- | -------- | -------- | -------- | ----------- | ----------- | ----------- | ----------- | ------------ | ------------ | -------- |
-| 网易     |          |          |          | mp3         | mp3         | mp3         |             | flac         |              |          |
-| Q Q      | m4a      |          | m4a      | mp3         | m4a         | mp3         | ape         | flac         |              |          |
-| 酷狗     |          |          |          | mp3         |             | mp3         |             | flac         | flac         | dff      |
-| 酷我     | aac      |          |          | mp3         | mp3         | mp3         | mp3         | flac         |              |          |
-| 咪咕     |          | mp3      |          | mp3         |             | mp3         |             | flac         |              |          |
-| 百度     | aac(64)  |          |          | mp3         |             | mp3         |             |              |              |          |
-
 ## 鸣谢
+
+### 特别赞助
 
 <a href="https://www.tirr.com.cn/" target="_blank"><img height="60px" style="margin:0 10px;" src="https://i.loli.net/2019/08/19/FqL9vntacW87OST.png"></a>
 <a href="https://www.ghpym.com/" target="_blank"><img height="60px"  style="margin:0 10px;" src="https://i.loli.net/2019/08/19/McJ3ZyoB8hK5vt7.png"></a>
 
+### 赞助
+
+以下排序为添加时间,无特别意义，如果想出现在赞助列表上,请赞助后提交 [issue](https://github.com/messoer/mess-api-doc/issues),之前赞助过的直接提交 [issue](https://github.com/messoer/mess-api-doc/issues)
+
+-   <a href="http://www.bzqll.com" target="_blank"><img height="40px"  src="https://i.loli.net/2019/08/04/kCrjaYe1l3AuHZD.png"></a>
+
+-   [小寒](http://dodoblog.cn)
+-   [NiTian1207](http://nitian1207.top)
+-   bug508
+-   懒豆豆
+
 ## 捐赠
 
-!> 关于捐赠，请耐心看完
+> 关于捐赠，强求大家耐心看完
 
-免费的东西不长久，毕竟家里没矿，生活在三次元的我总要考虑一下恰饭问题，所以有了这个赞助。你的赞助不仅会被用来支付一些开发成本：服务器、域名、付费软件等，还将帮助我奉献更多的时间到项目中。如果你正在使用我的 API，可以用赞助来表示你的谢意，并让项目保持健康和得到更积极的维护
+免费的东西不长久，毕竟家里没矿，生活在三次元的我总要考虑一下恰饭问题，所以有了这个赞助。你的赞助不仅会被用来支付一些开发成本：服务器、域名、付费软件等，还将帮助我奉献更多的时间到项目中。如果你正在使用我的 API，可以用赞助来表示你的谢意，并让项目保持健康稳定和得到更积极的维护
 
 我不会忘记支持我的人，也不会把你的支持当作理所当然，它对我意义重大。
 
@@ -92,7 +59,7 @@
 
 ## 关于项目
 
-目前没有打算开源的想法，不过有个旧版的开源项目，右上角项目地址可以访问到旧版 API [MessMusic](http://github.com/MessMusic)，如果真的想要源码，带着你的诚意来找群主！
+目前没有打算开源的想法，不过有个旧版的开源项目，右上角项目地址可以访问到旧版 API [MessMusic](http://github.com/MessMusic)，如果真的想要源码可出售。
 
 ## 免责声明
 
