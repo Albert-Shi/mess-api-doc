@@ -545,7 +545,7 @@
 
 接口地址: `https://v1.itooi.cn/netease/video`
 
-请求示例: `https://v1.itooi.cn/netease/video?id=10866117`
+请求示例: `https://v1.itooi.cn/netease/video?id=29533EC04BC1F249E308BA87AC5F6EB8`
 
 | 参数说明 | 是否必须 | 说明                                           | 默认值 |
 | -------- | -------- | ---------------------------------------------- | ------ |
@@ -555,7 +555,7 @@
 
 接口地址: `https://v1.itooi.cn/netease/videoUrl`
 
-请求示例: `https://v1.itooi.cn/netease/videoUrl?id=10866117&quality=1080`
+请求示例: `https://v1.itooi.cn/netease/videoUrl?id=29533EC04BC1F249E308BA87AC5F6EB8&quality=1080`
 
 | 参数说明   | 是否必须 | 说明                                           | 默认值                     |
 | ---------- | -------- | ---------------------------------------------- | -------------------------- |
