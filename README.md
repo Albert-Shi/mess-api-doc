@@ -1,6 +1,6 @@
 > MessAPI 一团乱糟糟的 API
 
-[![](https://img.shields.io/badge/最新版本-v1.1.1-brightgreen.svg?style=flat-square)](changeLog.md)
+[![](https://img.shields.io/badge/最新版本-v1.1.2-brightgreen.svg?style=flat-square)](changeLog.md)
 [![](https://img.shields.io/badge/作者-@鼻子亲了脸-blue.svg?style=flat-square)](http://www.bzqll.com)
 [![](https://img.shields.io/badge/Github-@mrdong916-green.svg?style=flat-square)](http://github.com/mrdong916)
 

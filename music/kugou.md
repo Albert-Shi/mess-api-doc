@@ -4,7 +4,7 @@
 
 接口地址: `https://v1.itooi.cn/kugou/song`
 
-请求示例: `https://v1.itooi.cn/kugou/song?id=xxxx`
+请求示例: `https://v1.itooi.cn/kugou/song?id=5FCE4CBCB96D6025033BCE2025FC3943`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -15,7 +15,7 @@
 
 接口地址: `https://v1.itooi.cn/kugou/url`
 
-请求示例: `https://v1.itooi.cn/kugou/url?id=xxxx&quality=128`
+请求示例: `https://v1.itooi.cn/kugou/url?id=5FCE4CBCB96D6025033BCE2025FC3943&quality=128`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -29,7 +29,7 @@
 
 接口地址: `https://v1.itooi.cn/kugou/lrc`
 
-请求示例: `https://v1.itooi.cn/kugou/lrc?id=xxxx`
+请求示例: `https://v1.itooi.cn/kugou/lrc?id=5FCE4CBCB96D6025033BCE2025FC3943`
 
 | 参数说明 | 是否必须 | 说明    | 默认值           |
 | -------- | -------- | ------- | ---------------- |
@@ -39,7 +39,7 @@
 
 接口地址: `https://v1.itooi.cn/kugou/pic`
 
-请求示例: `https://v1.itooi.cn/kugou/pic?id=xxxx`
+请求示例: `https://v1.itooi.cn/kugou/pic?id=5FCE4CBCB96D6025033BCE2025FC3943`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
@@ -50,7 +50,7 @@
 
 接口地址: `https://v1.itooi.cn/kugou/album`
 
-请求示例: `https://v1.itooi.cn/kugou/album?id=xxxx`
+请求示例: `https://v1.itooi.cn/kugou/album?id=1645030`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -63,7 +63,7 @@
 
 接口地址: `https://v1.itooi.cn/kugou/songList`
 
-请求示例: `https://v1.itooi.cn/kugou/songList?id=xxxx&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/kugou/songList?id=879553&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值 |
 | -------- | -------- | ------------------------------ | ------ |
@@ -78,7 +78,7 @@
 
 接口地址: `https://v1.itooi.cn/kugou/search`
 
-请求示例: `https://v1.itooi.cn/kugou/search?keyword=xxxx&type=song&pageSize=100&page=0`
+请求示例: `https://v1.itooi.cn/kugou/search?keyword=喜欢你&type=song&pageSize=100&page=0`
 
 | 参数说明 | 是否必须 | 说明                           | 默认值         |
 | -------- | -------- | ------------------------------ | -------------- |
@@ -92,17 +92,17 @@
 
 接口地址: `https://v1.itooi.cn/kugou/mv`
 
-请求示例: `https://v1.itooi.cn/kugou/mv?id=xxxxx`
+请求示例: `https://v1.itooi.cn/kugou/mv?id=1B43BAAF79C20489C85DEF55E2BA7AF0`
 
-| 参数说明 | 是否必须 | 说明  | 默认值 |
-| -------- | -------- | ----- | ------ |
-| id       | √        | MV ID |        |
+| 参数说明 | 是否必须 | 说明                                         | 默认值 |
+| -------- | -------- | -------------------------------------------- | ------ |
+| id       | √        | MV ID,支持两种 ID 获取，纯数字 ID 和 Hash ID |        |
 
 ## 获取 MV 播放地址
 
 接口地址: `https://v1.itooi.cn/kugou/mvUrl`
 
-请求示例: `https://v1.itooi.cn/kugou/mvUrl?id=xxxx&quality=1080`
+请求示例: `https://v1.itooi.cn/kugou/mvUrl?id=1B43BAAF79C20489C85DEF55E2BA7AF0&quality=1080`
 
 | 参数说明   | 是否必须 | 说明          | 默认值                     |
 | ---------- | -------- | ------------- | -------------------------- |
