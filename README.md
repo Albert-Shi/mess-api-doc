@@ -28,7 +28,6 @@
 ### 特别赞助
 
 <a href="https://www.tirr.com.cn/" target="_blank"><img height="60px" style="margin:0 10px;" src="https://i.loli.net/2019/08/19/FqL9vntacW87OST.png"></a>
-<a href="https://www.ghpym.com/" target="_blank"><img height="60px"  style="margin:0 10px;" src="https://i.loli.net/2019/08/19/McJ3ZyoB8hK5vt7.png"></a>
 
 ### 赞助
 
@@ -37,6 +36,7 @@
 -   [鼻子亲了脸](http://www.bzqll.com)
 -   [小寒](http://dodoblog.cn)
 -   [NiTian1207](http://nitian1207.top)
+-   [果核剥壳](https://www.ghpym.com/)
 -   bug508
 -   懒豆豆
 
