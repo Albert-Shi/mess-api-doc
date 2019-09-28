@@ -1,13 +1,19 @@
 > MessAPI 一团乱糟糟的 API
 
+
 [![](https://img.shields.io/badge/最新版本-v1.1.2-brightgreen.svg?style=flat-square)](changeLog.md)
 [![](https://img.shields.io/badge/作者-@鼻子亲了脸-blue.svg?style=flat-square)](http://www.bzqll.com)
 [![](https://img.shields.io/badge/Github-@mrdong916-green.svg?style=flat-square)](http://github.com/mrdong916)
-[![](https://img.shields.io/badge/群-Telegram-orange.svg?style=flat-square)](https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg)
+
+[![](https://img.shields.io/badge/QQ1群-579621905-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5iEkd35)
+[![](https://img.shields.io/badge/QQ2群-261097396-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5UAX0SA)
+[![](https://img.shields.io/badge/QQ3群-553632885-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5LyluVd) [![](https://img.shields.io/badge/Telegram-MessAPI-orange.svg?style=flat-square)](https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg)
+
+[点击有惊喜](http://www.bzqll.com)，仔细观察！！！
 
 ## 公告
 
-因收到腾讯公司律师函警告，腾讯系音乐软件接口已经关闭。QQ 群已经废弃，请点击上方的 Telegram 加入群（需翻墙）。
+因收到腾讯TME法务警告，腾讯系音乐软件接口已经关闭。
 
 ## 新版特性
 
