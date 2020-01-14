@@ -6,7 +6,6 @@
 [![](https://img.shields.io/badge/QQ1群-579621905-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5iEkd35)
 [![](https://img.shields.io/badge/QQ2群-261097396-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5UAX0SA) [![](https://img.shields.io/badge/Telegram-MessAPI-orange.svg?style=flat-square)](https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg)
 
-[点击有惊喜](http://www.bzqll.com)，仔细观察！！！
 
 ## 公告
 
