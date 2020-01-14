@@ -1,13 +1,10 @@
 > MessAPI 一团乱糟糟的 API
 
 
-[![](https://img.shields.io/badge/最新版本-v1.1.2-brightgreen.svg?style=flat-square)](changeLog.md)
-[![](https://img.shields.io/badge/作者-@鼻子亲了脸-blue.svg?style=flat-square)](http://www.bzqll.com)
-[![](https://img.shields.io/badge/Github-@mrdong916-green.svg?style=flat-square)](http://github.com/mrdong916)
+[![](https://img.shields.io/badge/最新版本-v1.1.3-brightgreen.svg?style=flat-square)](changeLog.md)
 
 [![](https://img.shields.io/badge/QQ1群-579621905-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5iEkd35)
-[![](https://img.shields.io/badge/QQ2群-261097396-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5UAX0SA)
-[![](https://img.shields.io/badge/QQ3群-553632885-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5LyluVd) [![](https://img.shields.io/badge/Telegram-MessAPI-orange.svg?style=flat-square)](https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg)
+[![](https://img.shields.io/badge/QQ2群-261097396-red.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5UAX0SA) [![](https://img.shields.io/badge/Telegram-MessAPI-orange.svg?style=flat-square)](https://t.me/joinchat/L0YKYkTRL-EGMpC7rTshgg)
 
 [点击有惊喜](http://www.bzqll.com)，仔细观察！！！
 
@@ -67,5 +64,5 @@
 
 ## 免责声明
 
-1. 以上开发接口仅限于技术研究和项目开发练习使用，禁止商业用途，如有发现直接禁 IP 和域名
+1. 以上开发接口仅限于技术研究和项目开发练习使用，禁止商业用途，如有发现直接关闭服务
 2. 音乐版权归各音乐平台所有，若有侵犯版权，请联系我删除
